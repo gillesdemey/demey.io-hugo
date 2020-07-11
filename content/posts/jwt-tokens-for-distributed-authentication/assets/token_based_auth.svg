@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="531px" height="316px" viewBox="0 0 531 316" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Token Based Auth</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="42" height="74" rx="5"></rect>
+        <rect id="path-2" x="0" y="0" width="42" height="74" rx="5"></rect>
+        <rect id="path-3" x="0" y="0" width="42" height="74" rx="5"></rect>
+        <rect id="path-4" x="42.0504202" y="0" width="53.7310924" height="13" rx="6.5"></rect>
+        <rect id="path-5" x="46.2857143" y="0" width="59.1428571" height="13" rx="6.5"></rect>
+        <rect id="path-6" x="37.512605" y="0" width="47.9327731" height="13" rx="6.5"></rect>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47.9327731" height="13" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+        <rect id="path-8" x="42.0504202" y="0" width="53.7310924" height="13" rx="6.5"></rect>
+        <rect id="path-9" x="46.2857143" y="0" width="59.1428571" height="13" rx="6.5"></rect>
+        <rect id="path-10" x="37.512605" y="0" width="47.9327731" height="13" rx="6.5"></rect>
+        <mask id="mask-11" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47.9327731" height="13" fill="white">
+            <use xlink:href="#path-10"></use>
+        </mask>
+        <rect id="path-12" x="41.1428571" y="0" width="52.5714286" height="13" rx="6.5"></rect>
+        <rect id="path-13" x="46.8907563" y="0" width="59.9159664" height="13" rx="6.5"></rect>
+        <rect id="path-14" x="38.1176471" y="0" width="48.7058824" height="13" rx="6.5"></rect>
+        <mask id="mask-15" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="48.7058824" height="13" fill="white">
+            <use xlink:href="#path-14"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Token-Based-Auth">
+            <g id="tiles/mobile">
+                <g id="mobile">
+                    <g id="Rectangle-10">
+                        <use fill="#EEF2F6" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#B8C5D0" stroke-width="2" x="1" y="1" width="40" height="72" rx="5"></rect>
+                    </g>
+                    <rect id="Rectangle-11" fill="#B8C5D0" x="14" y="7" width="14" height="2" rx="1"></rect>
+                    <circle id="Oval-5" fill="#B8C5D0" cx="21" cy="65" r="4"></circle>
+                </g>
+            </g>
+            <g id="tiles/mobile" transform="translate(0.000000, 121.000000)">
+                <g id="mobile">
+                    <g id="Rectangle-10">
+                        <use fill="#EEF2F6" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#B8C5D0" stroke-width="2" x="1" y="1" width="40" height="72" rx="5"></rect>
+                    </g>
+                    <rect id="Rectangle-11" fill="#B8C5D0" x="14" y="7" width="14" height="2" rx="1"></rect>
+                    <circle id="Oval-5" fill="#B8C5D0" cx="21" cy="65" r="4"></circle>
+                </g>
+            </g>
+            <g id="tiles/mobile" transform="translate(0.000000, 242.000000)">
+                <g id="mobile">
+                    <g id="Rectangle-10">
+                        <use fill="#EEF2F6" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect stroke="#B8C5D0" stroke-width="2" x="1" y="1" width="40" height="72" rx="5"></rect>
+                    </g>
+                    <rect id="Rectangle-11" fill="#B8C5D0" x="14" y="7" width="14" height="2" rx="1"></rect>
+                    <circle id="Oval-5" fill="#B8C5D0" cx="21" cy="65" r="4"></circle>
+                </g>
+            </g>
+            <g id="tiles/main-page" transform="translate(472.000000, 0.000000)">
+                <g id="main-page" transform="translate(-0.491667, 0.000000)">
+                    <rect id="Rectangle-7" fill="#B8C5D0" x="0.991735537" y="0" width="58.4916667" height="74" rx="5"></rect>
+                    <path d="M0.991735537,14.9006623 L59.4834022,14.9006623 L59.4834022,68.9994445 C59.4834022,71.7611751 57.2441238,74 54.4837995,74 L5.99133823,74 C3.23013391,74 0.991735537,71.7554024 0.991735537,68.9994445 L0.991735537,14.9006623 Z" id="Rectangle-7" fill="#EEF3F6"></path>
+                    <ellipse id="Oval-4" fill="#DEE7EE" cx="8.42975207" cy="7.45033113" rx="2.47933884" ry="2.48344371"></ellipse>
+                    <ellipse id="Oval-4" fill="#DEE7EE" cx="15.3719008" cy="7.45033113" rx="2.47933884" ry="2.48344371"></ellipse>
+                    <ellipse id="Oval-4" fill="#DEE7EE" cx="22.3140496" cy="7.45033113" rx="2.47933884" ry="2.48344371"></ellipse>
+                </g>
+            </g>
+            <g id="tiles/main-page" transform="translate(472.000000, 121.000000)">
+                <g id="main-page" transform="translate(-0.491667, 0.000000)">
+                    <rect id="Rectangle-7" fill="#B8C5D0" x="0.991735537" y="0" width="58.4916667" height="74" rx="5"></rect>
+                    <path d="M0.991735537,14.9006623 L59.4834022,14.9006623 L59.4834022,68.9994445 C59.4834022,71.7611751 57.2441238,74 54.4837995,74 L5.99133823,74 C3.23013391,74 0.991735537,71.7554024 0.991735537,68.9994445 L0.991735537,14.9006623 Z" id="Rectangle-7" fill="#EEF3F6"></path>
+                    <ellipse id="Oval-4" fill="#DEE7EE" cx="8.42975207" cy="7.45033113" rx="2.47933884" ry="2.48344371"></ellipse>
+                    <ellipse id="Oval-4" fill="#DEE7EE" cx="15.3719008" cy="7.45033113" rx="2.47933884" ry="2.48344371"></ellipse>
+                    <ellipse id="Oval-4" fill="#DEE7EE" cx="22.3140496" cy="7.45033113" rx="2.47933884" ry="2.48344371"></ellipse>
+                </g>
+            </g>
+            <g id="tiles/main-page" transform="translate(472.000000, 234.000000)">
+                <g id="main-page" transform="translate(-0.491667, 0.000000)">
+                    <rect id="Rectangle-7" fill="#B8C5D0" x="0.991735537" y="0" width="58.4916667" height="74" rx="5"></rect>
+                    <path d="M0.991735537,14.9006623 L59.4834022,14.9006623 L59.4834022,68.9994445 C59.4834022,71.7611751 57.2441238,74 54.4837995,74 L5.99133823,74 C3.23013391,74 0.991735537,71.7554024 0.991735537,68.9994445 L0.991735537,14.9006623 Z" id="Rectangle-7" fill="#EEF3F6"></path>
+                    <ellipse id="Oval-4" fill="#DEE7EE" cx="8.42975207" cy="7.45033113" rx="2.47933884" ry="2.48344371"></ellipse>
+                    <ellipse id="Oval-4" fill="#DEE7EE" cx="15.3719008" cy="7.45033113" rx="2.47933884" ry="2.48344371"></ellipse>
+                    <ellipse id="Oval-4" fill="#DEE7EE" cx="22.3140496" cy="7.45033113" rx="2.47933884" ry="2.48344371"></ellipse>
+                </g>
+            </g>
+            <g id="Service-1" transform="translate(52.000000, 31.000000)">
+                <g id="arrows/tag-hor---arrow-1.2" transform="translate(271.016949, 0.000000)">
+                    <g id="tag-hor---arrow-1.2">
+                        <path d="M0,6.5 L137.651515,6.5" id="Line" stroke="#89969F" stroke-linecap="square"></path>
+                        <polygon id="Triangle" fill="#89969F" points="136 9 136 4 139 6.5"></polygon>
+                        <g id="pill">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                            <rect stroke="#89969F" stroke-width="1" x="42.5504202" y="0.5" width="52.7310924" height="12" rx="6"></rect>
+                        </g>
+                        <text id="Continue" font-family="ArialMT, Arial" font-size="8" font-weight="normal" letter-spacing="0.133333355" fill="#89969F">
+                            <tspan x="52.3373008" y="9">Continue</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="arrows/tag-hor---arrow-1.2">
+                    <g id="tag-hor---arrow-1.2">
+                        <path d="M0,6.5 L151.331169,6.5" id="Line" stroke="#89969F" stroke-linecap="square"></path>
+                        <g id="pill">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            <rect stroke="#89969F" stroke-width="1" x="46.7857143" y="0.5" width="58.1428571" height="12" rx="6"></rect>
+                        </g>
+                        <text id="Service-1" font-family="ArialMT, Arial" font-size="8" font-weight="normal" letter-spacing="0.133333355" fill="#89969F">
+                            <tspan x="58.5833146" y="9">Service 1</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="arrows/tag-hor---arrow-1.2-dotted" transform="translate(149.903148, 0.000000)">
+                    <g id="tag-hor---arrow-1.2-dotted">
+                        <path d="M0,6.5 L122.647483,6.5" id="Line" stroke="#89969F" stroke-linecap="square" stroke-dasharray="3"></path>
+                        <use id="pill" stroke="#89969F" mask="url(#mask-7)" stroke-width="2" fill="#FFFFFF" stroke-dasharray="3" xlink:href="#path-6"></use>
+                        <text id="Validate" font-family="ArialMT, Arial" font-size="9" font-weight="normal" letter-spacing="0.150000021" fill="#89969F">
+                            <tspan x="45.4805248" y="10">Validate</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Service-2" transform="translate(52.000000, 152.000000)">
+                <g id="arrows/tag-hor---arrow-1.2" transform="translate(271.016949, 0.000000)">
+                    <g id="tag-hor---arrow-1.2">
+                        <path d="M0,6.5 L137.651515,6.5" id="Line" stroke="#89969F" stroke-linecap="square"></path>
+                        <polygon id="Triangle" fill="#89969F" points="136 9 136 4 139 6.5"></polygon>
+                        <g id="pill">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                            <rect stroke="#89969F" stroke-width="1" x="42.5504202" y="0.5" width="52.7310924" height="12" rx="6"></rect>
+                        </g>
+                        <text id="Continue" font-family="ArialMT, Arial" font-size="8" font-weight="normal" letter-spacing="0.133333355" fill="#89969F">
+                            <tspan x="52.3373008" y="9">Continue</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="arrows/tag-hor---arrow-1.2---service-2">
+                    <g id="tag-hor---arrow-1.2">
+                        <path d="M0,6.5 L151.331169,6.5" id="Line" stroke="#89969F" stroke-linecap="square"></path>
+                        <g id="pill">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                            <rect stroke="#89969F" stroke-width="1" x="46.7857143" y="0.5" width="58.1428571" height="12" rx="6"></rect>
+                        </g>
+                        <text id="Service-2" font-family="ArialMT, Arial" font-size="8" font-weight="normal" letter-spacing="0.133333355" fill="#89969F">
+                            <tspan x="58.5833146" y="9">Service 2</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="arrows/tag-hor---arrow-1.2-dotted" transform="translate(149.903148, 0.000000)">
+                    <g id="tag-hor---arrow-1.2-dotted">
+                        <path d="M0,6.5 L122.647483,6.5" id="Line" stroke="#89969F" stroke-linecap="square" stroke-dasharray="3"></path>
+                        <use id="pill" stroke="#89969F" mask="url(#mask-11)" stroke-width="2" fill="#FFFFFF" stroke-dasharray="3" xlink:href="#path-10"></use>
+                        <text id="Validate" font-family="ArialMT, Arial" font-size="9" font-weight="normal" letter-spacing="0.150000021" fill="#89969F">
+                            <tspan x="45.4805248" y="10">Validate</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Service-3" transform="translate(52.000000, 273.000000)">
+                <g id="arrows/tag-hor---arrow-1.2" transform="translate(274.338235, 0.000000)">
+                    <g id="tag-hor---arrow-1.2">
+                        <path d="M0,6.5 L134.659091,6.5" id="Line" stroke="#89969F" stroke-linecap="square"></path>
+                        <polygon id="Triangle" fill="#89969F" points="133 9 133 4 136 6.5"></polygon>
+                        <g id="pill">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                            <rect stroke="#89969F" stroke-width="1" x="41.6428571" y="0.5" width="51.5714286" height="12" rx="6"></rect>
+                        </g>
+                        <text id="Continue" font-family="ArialMT, Arial" font-size="8" font-weight="normal" letter-spacing="0.133333355" fill="#89969F">
+                            <tspan x="50.8549478" y="9">Continue</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="arrows/tag-hor---arrow-1.2---service-3">
+                    <g id="tag-hor---arrow-1.2">
+                        <path d="M0,6.5 L153.309354,6.5" id="Line" stroke="#89969F" stroke-linecap="square"></path>
+                        <g id="pill">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                            <rect stroke="#89969F" stroke-width="1" x="47.3907563" y="0.5" width="58.9159664" height="12" rx="6"></rect>
+                        </g>
+                        <text id="Service-3" font-family="ArialMT, Arial" font-size="8" font-weight="normal" letter-spacing="0.133333355" fill="#89969F">
+                            <tspan x="59.5749113" y="9">Service 3</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="arrows/tag-hor---arrow-1.2-dotted" transform="translate(151.740196, 0.000000)">
+                    <g id="tag-hor---arrow-1.2-dotted">
+                        <path d="M0,6.5 L124.625668,6.5" id="Line" stroke="#89969F" stroke-linecap="square" stroke-dasharray="3"></path>
+                        <use id="pill" stroke="#89969F" mask="url(#mask-15)" stroke-width="2" fill="#FFFFFF" stroke-dasharray="3" xlink:href="#path-14"></use>
+                        <text id="Validate" font-family="ArialMT, Arial" font-size="9" font-weight="normal" letter-spacing="0.150000021" fill="#89969F">
+                            <tspan x="46.4839262" y="10">Validate</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

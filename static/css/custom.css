@@ -1,0 +1,79 @@
+:root {
+  --font-color: black;
+  --link-state-color: var(--font-color);
+  --link-state-border-color: rgb(241, 196, 15);
+  --link-color: var(--font-color);
+  --bq-color: var(--link-state-border-color);
+  --thead-bg-color: none;
+  --table-border-color: none;
+  --hr-color: rgba(0, 0, 0, 0.1);
+}
+
+body {
+  font-size: 16px;
+}
+
+blockquote {
+  margin-left: 0;
+  line-height: 1em;
+  font-style: italic;
+}
+
+a, a:hover {
+  border-bottom: 2px solid var(--link-state-border-color);
+}
+
+a:hover {
+  background: rgb(255, 234, 167) none repeat scroll 0% 0%;
+}
+
+.common-header {
+  border-bottom: none;
+}
+
+.post > header.post-header > h1 {
+  line-height: 1em;
+  font-size: 2.5em;
+}
+
+.post-author-date {
+  color: var(--post-info-color);
+  font-size: 0.9em;
+}
+
+.post .content > p {
+  margin: 1.5em 0px;
+  line-height: 1.5em;
+}
+
+.site-title, .post-title, .content h1, .content h2, .content h3, .content h4 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+.site-title {
+  font-size: 1.5rem;
+  background: rgb(255, 234, 167) none repeat scroll 0% 0%;
+}
+
+.content {
+  font-family: 'Domine', serif;
+  line-height: 1.5rem;
+}
+
+code:not([data-lang]) {
+  background: rgba(0, 0, 0, 0) linear-gradient(to right, rgb(252, 218, 234), rgb(255, 232, 216)) repeat scroll 0% 0%;
+  border-radius: 0.25em;
+  padding: 0.1em 0.25em;
+  font-family: "Source Code Pro", monospace;
+}
+
+article:not(:last-of-type) {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.copyright {
+  color: var(--post-info-color);
+  font-size: 0.9em;
+}

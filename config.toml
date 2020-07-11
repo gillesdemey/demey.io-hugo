@@ -1,0 +1,28 @@
+baseURL = "https://demey.io/"
+languageCode = "en-us"
+title = "Gilles & Michiel De Mey"
+theme = "anubis"
+
+[params]
+  author = "Gilles & Michiel De Mey"
+  style = "light-without-switcher"
+  customCSS = [
+    "css/custom.css",
+    "https://fonts.googleapis.com/css2?family=Domine&family=Source+Code+Pro&family=Montserrat:wght@600&display=swap"
+  ]
+  dateFormat = "January 2, 2006"
+
+[permalinks]
+  posts = "/:title/"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "dracula"
+    tabWidth = 2
