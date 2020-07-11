@@ -1,0 +1,23 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $original := .Page.Resources.GetMatch $src }}
+
+{{ if $original }}
+  {{ $preview := $original.Resize "672x" }}
+
+  {{ if lt $original.Width 672 }}
+    <img
+      src="{{ $original.RelPermalink }}"
+      width="{{ $original.Width }}"
+      alt="{{ $alt }}"
+    />
+  {{ else if $original }}
+    <a href="{{ $original.RelPermalink }}" target="_blank" title="{{ $alt }}">
+      <img
+        src="{{ $preview.RelPermalink }}"
+        width="{{ $preview.Width }}"
+        alt="{{ $alt }}"
+      />
+    </a>
+  {{ end }}
+{{ end }}

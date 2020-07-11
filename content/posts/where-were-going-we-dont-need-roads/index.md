@@ -5,7 +5,7 @@ date: "2017-09-15T10:43:20.000Z"
 teaser: "A future I'm looking to be a part of. 🚗⚡️"
 ---
 
-![Me in front of a Poppy vehicle](poppy_me_car_larger.jpg)
+{{<img src="poppy_me_car_larger.jpg" alt="Me in front of a Poppy vehicle">}}
 
 You know, I've always been a sucker for Start-ups, I've worked in the start-up scene my entire career. From the beautiful beaches of San Francisco to the fancy docks of Ghent to the busy streets of Antwerp.
 

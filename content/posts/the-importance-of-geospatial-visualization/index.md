@@ -6,6 +6,7 @@ cover: "./assets/accurate-scenario.png"
 teaser: "How many people live within a 5-minute walk from a bus stop? A seemingly simple question, yet one that requires a bit more thought and consideration as well as processing power."
 ---
 
+
 > How many people live within a 5 minute walk from a bus stop?
 
 A seemingly simple question, yet one that requires a bit more thought and consideration as well as processing power. Let's try and visualize our solution to get a better understanding of the problems we might face when trying to provide our solution.
@@ -16,7 +17,7 @@ If my math adds up (`distance = speed x time`), the average person can walk up t
 
 So let's draw a circle with a radius of 375m around a bus stop in Ghent.
 
-![Naive method](./assets/basic-circle.png)
+{{<img src="assets/basic-circle.png" alt="Naive method">}}
 
 Theoretically, everyone living inside of the circle should be able to reach the bus stop within a 5 minute walk.
 
@@ -24,7 +25,7 @@ This is in fact how "De Lijn" — the local bus operator — decided to calculat
 
 If we visualize this method on top of Ghent, it will look like this.
 
-![Naive method overlayed on top of Ghent](./assets/naive-ghent.png)
+{{<img src="assets/naive-ghent.png" alt="Naive method overlayed on top of Ghent">}}
 
 At first glance, this looks great, everyone living in the city has a bus stop within a 5-minute walking distance.
 
@@ -34,7 +35,7 @@ In practice however, we will see that this method of coverage calculation is far
 
 Let's examine a realistic scenario.
 
-![Scenario](./assets/basic-circle-scenario-1.png)
+{{<img src="assets/basic-circle-scenario-1.png" alt="Scenario">}}
 
 Assume you live on "Coupure Rechts" and want to take the closest bus stop at "Bijlokevest". The fastest way to the bus stop would be to go in a straight line. Unfortunately, you cannot simply swim across the canal, instead forcing you to take the nearest bridge, losing precious time taking the long way around.
 
@@ -47,7 +48,7 @@ For these types of reachability problems it's best to look at [isochrones](https
 
 Under the hood, we will be using a routing engine with the capability to calculate travel times from point A to point B using a [shortest path tree](https://en.wikipedia.org/wiki/Shortest-path_tree) (SPT) algorithm. We then create an [alpha shape](https://en.wikipedia.org/wiki/Alpha_shape) (concave hull) to create a polygon to visually represent reachability.
 
-![Accurate Isochrone vs Naive method](./assets/accurate-scenario.png)
+{{<img src="assets/accurate-scenario.png" alt="Accurate Isochrone vs Naive method">}}
 
 As we can see from the comparison image, the isochrone generated from the walking distance calculation gives a much more accurate visualization of the actual reachability of that specific bus stop. It correctly visualizes that "Coupure Rechts" is not reachable within the defined 5-minute walking distance, nor any other streets at the other side of the canal except for the very few houses across to the bridge.
 
