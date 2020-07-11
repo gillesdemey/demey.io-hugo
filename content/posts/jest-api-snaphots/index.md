@@ -89,7 +89,7 @@ Now each time the test suite is executed, it will compare the test output format
 
 If this was your intention, all you have to do is update the snapshot using the correct Jest command — if not fix the tests until Jest no longer complains about it.
 
-![In this example, the “fullname” property has mysteriously disappeared.](https://cdn-images-1.medium.com/max/2000/1*Kf_2M0vIsX755NWjlgY0XQ.png)
+{{<img src="assets/1-Kf_2M0vIsX755NWjlgY0XQ.png" alt="In this example, the 'fullname' property has mysteriously disappeared.">}}
 > In this example, the `fullname` property has mysteriously disappeared.
 
 ## Benefits

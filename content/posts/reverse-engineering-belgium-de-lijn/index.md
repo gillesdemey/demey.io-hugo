@@ -23,7 +23,7 @@ The first thing we will want to do is try and capture the API endpoint, a straig
 
 Upon opening the website I can clearly see an XMLHttpRequest (XHR) going to their server, which is coming from an AJAX request from somewhere inside their JavaScript codebase.
 
-![](/./assets/Screen-Shot-2015-07-17-at-14-36-48.png)
+{{<img src="assets/Screen-Shot-2015-07-17-at-14-36-48.png" alt="">}}
 
 We can immediately spot one of the API endpoints that are used for their new API:
 
@@ -33,7 +33,7 @@ https://www.delijn.be/rise-api-search/
 
 However, there is a second — more interesting — API endpoint which you can find when using their route planner.
 
-![](/./assets/Screen-Shot-2015-07-17-at-14-40-49.png)
+{{<img src="assets/Screen-Shot-2015-07-17-at-14-40-49.png" alt="">}}
 
 ```http
 https://www.delijn.be/rise-api-core/
