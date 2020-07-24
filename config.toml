@@ -26,6 +26,6 @@ theme = "anubis"
     noClasses = true
     style = "dracula"
     tabWidth = 2
-[goldmark]
-    [renderer]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
       unsafe = true
